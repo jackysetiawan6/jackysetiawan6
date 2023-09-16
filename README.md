@@ -43,8 +43,8 @@ I'm a passionate and aspiring computer science student with a deep love for tech
   
 ## 🌐 Connect with Me
 
-- LinkedIn: [[jackysetiawan]](https://www.linkedin.com/in/jackysetiawan/)
-- GitHub: [[jackysetiawan6]](https://github.com/jackysetiawan6)
+- LinkedIn: [jackysetiawan](https://www.linkedin.com/in/jackysetiawan/)
+- GitHub: [jackysetiawan6](https://github.com/jackysetiawan6)
 
 ## 💬 Let's Chat
 
