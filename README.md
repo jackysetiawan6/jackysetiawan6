@@ -15,12 +15,11 @@ I'm a passionate and aspiring computer science student with a deep love for tech
 -->
 ## 🌟 Key Skills
 
-- **Programming Languages**: C, C++, C#, Java, Python, Visual Basic, and PowerShell.
+- **Programming Languages**: C, C#, Java, Python, and PowerShell.
 - **Web Development**: HTML, CSS, JavaScript, and PHP.
-- **Data Structures & Algorithms**: Proficient in sorting algorithms and dynamic programming.
-- **Database Management**: MySQL.
+- **Data Structures & Algorithms**: Proficient in dynamic programming.
+- **Database Management**: MySQL and PostgreSQL.
 - **Software Development**: Experience with Agile methodologies.
-- **Artificial Intelligence**: Hand Gesture Recognition with Google's MediaPipe.
 
 <!-- ## 🚀 Projects
 
@@ -36,6 +35,7 @@ I'm a passionate and aspiring computer science student with a deep love for tech
 
 3. [Add more projects as needed]
 -->
+
 ## 📚 Education
 
 - **Bachelor's in Computer Science** - Bina Nusantara University - *February 2025*
