@@ -15,9 +15,8 @@ I'm a passionate and aspiring computer science student with a deep love for tech
 -->
 ## 🌟 Key Skills
 
-- **Programming Languages**: C, C#, Java, Python, and PowerShell.
+- **Programming Languages**: C, C#, Java, Python, and R.
 - **Web Development**: HTML, CSS, JavaScript, and PHP.
-- **Data Structures & Algorithms**: Proficient in dynamic programming.
 - **Database Management**: MySQL and PostgreSQL.
 - **Software Development**: Experience with Agile methodologies.
 
