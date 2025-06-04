@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate and aspiring computer science student with a deep love for technology and its applications. Currently pursuing a bachelor's degree in Computer Science at Bina Nusantara (Binus) University, I am on a journey to explore the fascinating world of algorithms, artificial intelligence, and software development.
+I'm currently working in a private company as an IT System Operator.
 
 <!-- ## 💼 Experience
 
@@ -15,10 +15,9 @@ I'm a passionate and aspiring computer science student with a deep love for tech
 -->
 ## 🌟 Key Skills
 
-- **Programming Languages**: C, C#, Java, Python, and R.
-- **Web Development**: HTML, CSS, JavaScript, and PHP.
+- **Programming Languages**: C, C#, Java, and Python.
+- **Web Development**: NextJSa and PHP.
 - **Database Management**: MySQL and PostgreSQL.
-- **Software Development**: Experience with Agile methodologies.
 
 <!-- ## 🚀 Projects
 
@@ -37,7 +36,7 @@ I'm a passionate and aspiring computer science student with a deep love for tech
 
 ## 📚 Education
 
-- **Bachelor's in Computer Science** - Bina Nusantara University - *February 2025*
+- **Bachelor's in Computer Science** - Bina Nusantara University - *February 2026*
   - Relevant coursework: Networking, Software Development, and Computer Security.
   
 ## 🌐 Connect with Me
