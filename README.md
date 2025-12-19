@@ -16,7 +16,7 @@ I'm currently working in a private company as an IT System Operator.
 ## 🌟 Key Skills
 
 - **Programming Languages**: C, C#, Java, and Python.
-- **Web Development**: NextJSa and PHP.
+- **Web Development**: NextJS and PHP.
 - **Database Management**: MySQL and PostgreSQL.
 
 <!-- ## 🚀 Projects
