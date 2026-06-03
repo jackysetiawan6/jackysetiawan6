@@ -1,55 +1,144 @@
-# Hi there! 👋 I'm Jacky Setiawan
+# Hi, I'm Jacky Setiawan 👋
 
-## About Me
+IT System Operator • Computer Science Graduate • Systems & Infrastructure Professional</strong>
 
-I'm currently working in a private company as an IT System Operator.
+Passionate about IT infrastructure, software development, database systems, and building reliable technology solutions.
 
-<!-- ## 💼 Experience
+---
 
-- **Intern @ [Company Name]** - *Month Year to Month Year*
-  - Worked on [brief description of your projects or responsibilities].
-  - Collaborated with cross-functional teams to deliver [mention any significant achievements or projects].
-  
-- **Freelancer** - *Month Year to Present*
-  - [Highlight any freelance work or side projects you've worked on, including technologies used and outcomes achieved].
--->
-## 🌟 Key Skills
+## 🚀 About Me
 
-- **Programming Languages**: C, C#, Java, and Python.
-- **Web Development**: NextJS and PHP.
-- **Database Management**: MySQL and PostgreSQL.
+I am an IT professional with a background in Computer Science and hands-on experience supporting business-critical systems and infrastructure. I enjoy solving technical problems, automating processes, and continuously learning new technologies.
 
-<!-- ## 🚀 Projects
+- 💼 Working as an **IT System Operator**
+- 🎓 Bachelor's Degree in Computer Science
+- 🔧 Experienced with system operations, databases, and software development
+- 🌱 Continuously learning modern technologies and best practices
+- 🤝 Open to collaboration, networking, and knowledge sharing
 
-1. **[Project Name]** - *Month Year to Month Year*
-   - [Brief project description]
-   - Technologies used: [List the technologies or tools you used]
-   - [Add a link to the project's GitHub repository or a live demo if applicable]
+---
 
-2. **[Project Name]** - *Month Year to Month Year*
-   - [Brief project description]
-   - Technologies used: [List the technologies or tools you used]
-   - [Add a link to the project's GitHub repository or a live demo if applicable]
+## 💻 Technical Skills
 
-3. [Add more projects as needed]
--->
+### Programming Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Web Development
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Database Technologies
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 💼 Professional Highlights
+
+- Maintaining and supporting enterprise IT systems
+- Monitoring infrastructure availability and performance
+- Troubleshooting application, network, and database issues
+- Managing database operations and maintenance
+- Supporting business-critical services and users
+- Developing internal tools and automation solutions
+
+---
+
+## 🎯 Current Focus
+
+Currently focusing on:
+
+- Infrastructure & System Administration
+- Database Management & Optimization
+- Backend Development
+- IT Operations & Monitoring
+- Network Administration
+- Information Security Fundamentals
+
+### Areas of Interest
+
+- Cloud Computing
+- DevOps Practices
+- Automation & Scripting
+- Cybersecurity
+- Software Architecture
+- System Reliability Engineering (SRE)
+
+---
 
 ## 📚 Education
 
-- **Bachelor's in Computer Science** - Bina Nusantara University - *February 2026*
-  - Relevant coursework: Networking, Software Development, and Computer Security.
-  
-## 🌐 Connect with Me
+### Bachelor's Degree in Computer Science
 
-- LinkedIn: [jackysetiawan](https://www.linkedin.com/in/jackysetiawan/)
-- GitHub: [jackysetiawan6](https://github.com/jackysetiawan6)
+**Bina Nusantara University**  
+Will be Graduated: End of 2026
 
-## 💬 Let's Chat
+Relevant Areas of Study:
 
-I'm always open to interesting discussions, collaboration opportunities, or just a friendly chat about technology and computer science. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/jackysetiawan/) or [Email](mailto:jackysetiawan6@gmail.com). Let's learn and grow together!
+- Networking
+- Software Development
+- Computer Security
+- Database Systems
+- Operating Systems
 
-Thanks for stopping by! 😊🚀
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jackysetiawan6&theme=dark" width="50%" >
+<!-- ## 🏆 Professional Development
 
-![Jacky's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackysetiawan6&layout=compact&theme=darcula&langs_count=10)
+Currently interested in pursuing certifications and further learning in:
+
+- Cisco CCNA
+- CompTIA Security+
+- AWS Cloud Practitioner
+- Microsoft Azure Fundamentals
+- Linux Administration
+
+---
+
+## 🚀 Featured Projects
+
+> Selected projects will be added here.
+
+### Coming Soon
+
+- Internal Automation Tools
+- Web Applications
+- Database Projects
+- System Administration Utilities
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jackysetiawan6)
+
+---
+-->
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jackysetiawan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jacky%20Setiawan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/jackysetiawan6">
+    <img src="https://img.shields.io/badge/GitHub-jackysetiawan6-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="mailto:jackysetiawan6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building reliable systems, solving problems, and continuously learning.</i>
+</p>
